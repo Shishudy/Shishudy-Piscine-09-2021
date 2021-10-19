@@ -1,0 +1,5 @@
+Credentials cache: API:23202240-A6F6-4878-9D9C-75EDF2CB16A5
+        Principal: rasantos@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  8 16:10:24 2021  Sep  9 02:10:24 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
